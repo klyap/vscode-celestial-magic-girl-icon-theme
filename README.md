@@ -1,6 +1,6 @@
 # VSCode Celestial Magic Girl Icon Theme
+Cats, bunnies, magic wands, spellbooks, stars, and more!
 
-A celestial magic girl themed product icon pack! Cats, bunnies, magic wands, spellbooks, stars, and more!
 Currently for common front-end web development file types
 
 ### Download and use at https://marketplace.visualstudio.com/items?itemName=klyap.vscode-celestial-magic-girl-icon-theme
