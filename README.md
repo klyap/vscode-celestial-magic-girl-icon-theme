@@ -1,9 +1,11 @@
 # VSCode Stardew Icon Theme
 
-A celestial magic girl themed product icon pack!
+A celestial magic girl themed product icon pack! Cats, bunnies, magic wands, spellbooks, stars, and more!
 Currently for common front-end web development file types
 
 ### Download and use at https://marketplace.visualstudio.com/items?itemName=klyap.vscode-celestial-magic-girl-icon-theme
+
+<img width="175" alt="Screen Shot 2022-08-24 at 8 32 46 PM" src="https://user-images.githubusercontent.com/7905522/186572291-0d9f5b28-98ce-4cf5-a64b-76a1d74e5d30.png">
 
 
 ## Development
@@ -12,6 +14,7 @@ This extension uses image files directly from the `icons` folder in `icons.json`
 
 Open this repo in VSCode and hit F5 to test it out.
 
+### Set up
 You will need to run to develop:
 ```yarn install```
 ```yarn global add vsce``` or ```npm install -g vsce```
