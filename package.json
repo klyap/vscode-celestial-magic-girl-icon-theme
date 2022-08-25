@@ -1,0 +1,51 @@
+{
+    "name": "vscode-celestial-magic-girl-icon-theme",
+    "displayName": "Celestial Magic Girl Icon Theme",
+    "description": "Cute and magical icons",
+    "version": "0.0.1",
+    "publisher": "klyap",
+    "engines": {
+        "vscode": "^1.20.0"
+    },
+    "contributes": {
+        "iconThemes": [
+            {
+                "id": "vscode-celestial-magic-girl-icon-theme",
+                "label": "Celestial Magic Girl Icon Theme",
+                "path": "./icons.json"
+            }
+        ]
+    },
+    "icon": "icons/bow.png",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/klyap"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "icons",
+        "theme",
+        "icon",
+        "cute",
+        "kawaii",
+        "anime",
+        "manga",
+        "girl",
+        "cozy",
+        "cat",
+        "bunny",
+        "magic",
+        "sailor moon",
+        "cardcaptor",
+        "star",
+        "sakura",
+        "planet",
+        "space"
+    ],
+    "license": "MIT",
+    "dependencies": {
+        "vsce": "^2.10.2"
+    }
+}

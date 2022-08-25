@@ -1,0 +1,176 @@
+{
+  "iconDefinitions": {
+    "_file": {
+      "iconPath": "icons/bow.png"
+    },
+    "_css": {
+      "iconPath": "icons/wand.png"
+    },
+    "_html": {
+      "iconPath": "icons/paw.png"
+    },
+    "_javascript": {
+      "iconPath": "icons/catblack.png"
+    },
+    "_javascript_test": {
+      "iconPath": "icons/catblack.png"
+    },
+    "_typescript": {
+      "iconPath": "icons/catwhite.png"
+    },
+    "_json": {
+      "iconPath": "icons/heart.png"
+    },
+    "_lock": {
+      "iconPath": "icons/candy.png"
+    },
+    "_eslint": {
+      "iconPath": "icons/sakura.png"
+    },
+    "_prettier": {
+      "iconPath": "icons/sakura.png"
+    },
+    "_git": {
+      "iconPath": "icons/moon.png"
+    },
+    "_log": {
+      "iconPath": "icons/planet.png"
+    },
+    "_image": {
+      "iconPath": "icons/bunnypink.png"
+    },
+    "_markdown": {
+      "iconPath": "icons/spellbook.png"
+    },
+    "_babel": {
+      "iconPath": "icons/spellbook.png"
+    },
+    "_license": {
+      "iconPath": "icons/spellbook.png"
+    },
+    "_package": {
+      "iconPath": "icons/star.png"
+    },
+    "_graphql": {
+      "iconPath": "icons/sparkle.png"
+    },
+    "_jest": {
+      "iconPath": "icons/catblack.png"
+    },
+    "_apollo": {
+      "iconPath": "icons/sparkle.png"
+    },
+    "_bazel": {
+      "iconPath": "icons/spellbook.png"
+    },
+    "_music": {
+      "iconPath": "icons/onigiri.png"
+    },
+    "_solidity": {
+      "iconPath": "icons/catwhite.png"
+    },
+    "_yml": {
+      "iconPath": "icons/sparkle.png"
+    },
+    "_env": {
+      "iconPath": "icons/paw.png"
+    },
+    "_config": {
+      "iconPath": "icons/moon.png"
+    }
+  },
+  "file": "_file",
+  "fileExtensions": {
+    "js": "_javascript",
+    "jsx": "_javascript",
+    "ts": "_typescript",
+    "tsx": "_typescript",
+    "jpeg": "_image",
+    "jpg": "_image",
+    "gif": "_image",
+    "png": "_image",
+    "bmp": "_image",
+    "ico": "_image",
+    "svg": "_image",
+    "mp3": "_music",
+    "ogg": "_music",
+    "wav": "_music",
+    "node.js": "_javascript_test",
+    "browser.js": "_javascript_test",
+    "md": "_markdown",
+    "grapqhl": "_graphql",
+    "proto": "_proto",
+    "thrift": "_thrift",
+    "git": "_git",
+    "snap": "_javascript_test",
+    "log": "_log",
+    "sol": "_solidity",
+    "yml": "_yml",
+    "config.js": "_config"
+  },
+  "fileNames": {
+    "license": "_license",
+    "licence": "_license",
+    "license.md": "_license",
+    "licence.md": "_license",
+    "license.txt": "_license",
+    "copyright": "_license",
+    "copyright.md": "_license",
+    "package.json": "_package",
+    "package-lock.json": "_lock",
+    "npm-debug.log": "_log",
+    "vscodeignore.json": "_visualstudiocode",
+    "extensions.json": "_visualstudiocode",
+    "launch.json": "_visualstudiocode",
+    "settings.json": "_visualstudiocode",
+    "jsconfig.json": "_json",
+    "tsconfig.json": "_json",
+    "yarn.lock": "_lock",
+    "yarn-error.log": "_log",
+    ".babelrc": "_babel",
+    ".babel.config.js": "_babel",
+    ".eslintrc.js": "_eslint",
+    ".eslintrc.yml": "_eslint",
+    ".eslintrc.yaml": "_eslint",
+    ".eslintrc.json": "_eslint",
+    ".eslintignore": "_eslint",
+    "prettierrc.js": "_prettier",
+    "prettierrc.json": "_prettier",
+    "prettierrc.yml": "_prettier",
+    "prettierrc.yaml": "_prettier",
+    "prettier.config.js": "_prettier",
+    "prettier.config.ts": "_prettier",
+    "prettier.config.coffee": "_prettier",
+    ".prettierignore": "_prettier",
+    ".prettierrc": "_prettier",
+    "tslint.js": "_tslint",
+    "tslint.ts": "_tslint",
+    "tslint.json": "_tslint",
+    "contributing": "_markdown",
+    "history": "_markdown",
+    "history.md": "_markdown",
+    "changelog": "_log",
+    "changelog.md": "_log",
+    "changelog.json": "_log",
+    "metadata": "_markdown",
+    ".flowconfig": "_flow",
+    ".fusionrc.config": "_fusion",
+    "bazelisk": "_bazel",
+    "BUILD.bazel": "_bazel",
+    "jest.config.js": "_jest",
+    "jest.integration.config.js": "_jest",
+    "apollo.config.js": "_apollo",
+    ".gitignore": "_git",
+    ".graphqlconfig": "_graphql",
+    ".env.production": "_env",
+    ".env.development": "_env"
+  },
+  "languageIds": {
+    "git": "_git",
+    "javascript": "_javascript",
+    "typescript": "_typescript",
+    "css": "_css",
+    "html": "_html",
+    "json": "_json"
+  }
+}
