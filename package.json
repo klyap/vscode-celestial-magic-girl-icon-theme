@@ -2,7 +2,7 @@
     "name": "vscode-celestial-magic-girl-icon-theme",
     "displayName": "Celestial Magic Girl Icon Theme",
     "description": "Cute and magical icons",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "publisher": "klyap",
     "engines": {
         "vscode": "^1.20.0"
