@@ -1,4 +1,4 @@
-# VSCode Stardew Icon Theme
+# VSCode Celestial Magic Girl Icon Theme
 
 A celestial magic girl themed product icon pack! Cats, bunnies, magic wands, spellbooks, stars, and more!
 Currently for common front-end web development file types
